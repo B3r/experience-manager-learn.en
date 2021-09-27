@@ -270,7 +270,7 @@ Next, let's review how the clientlibs are referenced in the AEM Page. A common b
 
     >[!NOTE]
     >
-    > It is also possible to reference the `wknd.site` or `wknd.dependencies` from the page component directly, using the `customheaderlibs.html` or `customfooterlibs.html` script, as we saw eaerlier for the `wknd.base` clientlib. Using the Template gives some flexibility in that you can pick and choose which clientlibs are used per template. For example if you have a very heavy JavaScript library that is only going to be used on a select template.
+    > It is also possible to reference the `wknd.site` or `wknd.dependencies` from the page component directly, using the `customheaderlibs.html` or `customfooterlibs.html` script, as we saw earlier for the `wknd.base` clientlib. Using the Template gives some flexibility in that you can pick and choose which clientlibs are used per template. For example if you have a very heavy JavaScript library that is only going to be used on a select template.
 
 1. Navigate to the **LA Skateparks** page created using the **Article Page Template**: [http://localhost:4502/editor.html/content/wknd/us/en/magazine/guide-la-skateparks.html](http://localhost:4502/editor.html/content/wknd/us/en/magazine/guide-la-skateparks.html). You should see a difference in fonts.
 
