@@ -148,9 +148,10 @@ Client-side libraries have some limitations when it comes to support of language
 
     ```plain
     /src/main/webpack
-             /base
              /components
              /resources
+             /site
+             /static
     ```
 
     ![Changed files](assets/client-side-libraries/changed-files-uifrontend.png)
